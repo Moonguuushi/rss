@@ -1,6 +1,6 @@
 # Mongush Evgeniia
 
-![Photo](/Photo.jpeg)
+![Photo](/img-photo.jpeg)
 
 ---
 
