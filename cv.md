@@ -1,5 +1,7 @@
 # Mongush Evgeniia
 
+![Photo](/Photo.jpeg)
+
 ---
 
 ### Contact information
@@ -15,7 +17,9 @@
 ### Summary
 
 Extremely motivated for career change goal.
+
 There was a change of values in my life and I decided to break into a completely new for me, but such an interesting area as IT.
+
 At the moment I am studying at RS School on JS course.
 
 ---
