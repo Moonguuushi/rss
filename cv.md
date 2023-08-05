@@ -4,7 +4,7 @@
 
 ---
 
-### Contact information
+#### Contact information
 
 **Phone number:** +7 923 440 2330  
 **Email:** zheniyamongush@gmail.com  
@@ -14,7 +14,7 @@
 
 ---
 
-### Summary
+#### Summary
 
 Extremely motivated for career change goal.
 
@@ -23,3 +23,21 @@ There was a change of values in my life and I decided to break into a completely
 At the moment I am studying at RS School on JS course.
 
 ---
+
+#### Skills
+
+- **HTML**
+
+---
+
+#### Education
+
+- **[Tomsk State University](https://en.tsu.ru/faculties/chf/)** faculty of Chemistry _Sep 2013 - Jun 2018_
+- **[RS School](https://rs.school/index.html)** JS / FRONT-END. Stage 0 (RU) _Jun 2023 (in progress)_
+
+---
+
+#### Languages
+
+- **Russian** - native speaker
+- **English** - B2 results from [EF SET](https://www.efset.org/ef-set-50/)
