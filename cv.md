@@ -39,7 +39,7 @@ At the moment I am studying at RS School on JS course.
 
 #### Projects
 
-- [CV](https://moonguuushi.github.io/rsschool-cv/cv) учебный
+- [CV](https://moonguuushi.github.io/rsschool-cv/cv)
 
 #### Languages
 
