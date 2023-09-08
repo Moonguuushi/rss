@@ -1,0 +1,38 @@
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+main{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.left{
+  background-color: #415a52;
+  color: #ffffff;
+  text-align: left;
+
+}
+
+h3{
+  font-variant: small-caps;
+}
+
+div.header{
+  background-color: #283732;
+  text-align: left;
+}
+
+.photo{
+  border-radius: 50%;
+  border: 3px solid #ffffff;
+  width: 150px;
+  height: 150px;
+
+
+}
+
+.right{
+  font-size: 18px;
+}
+
