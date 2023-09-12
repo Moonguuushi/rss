@@ -1,1 +1,1 @@
-https://moonguuushi.github.io/rsschool-cv/index
+https://moonguuushi.github.io/rsschool-cv/

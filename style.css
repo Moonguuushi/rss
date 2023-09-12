@@ -1,5 +1,6 @@
 .container{
   display: flex;
+  justify-content: space-around;
   flex-direction: row;
 }
 
@@ -8,27 +9,47 @@ main{
 }
 
 .left{
-  background-color: #415a52;
+  background-color: #344741;
   color: #ffffff;
   text-align: left;
+  width: 25%;
 
+}
+
+.right{
+  color:#1c2724;
+  width: 75%;
 }
 
 h3{
   font-variant: small-caps;
+
+}
+
+h3:before{
+  content: " ";
+  background-color: #1c2724;
+  position: relative;
+  height: 3px;
+  width: 100%;
+  bottom: 5px;
+
 }
 
 div.header{
-  background-color: #283732;
+  background-color: #1c2724;
   text-align: left;
 }
 
 .photo{
   border-radius: 50%;
-  border: 3px solid #ffffff;
-  width: 150px;
-  height: 150px;
-
+  border: 5px solid #ffffff;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
 
 }
 
