@@ -1,6 +1,6 @@
 .body {
   font-family: 'Raleway', sans-serif;
-  min-height: 100vh;
+  min-height: 100%;
   margin: 0;
   padding: 0;
   display: flex;
@@ -29,19 +29,35 @@ html{
   padding: 0 20px;
   line-height: 50px;
   transition: .3s;
+  color: #ffffff;
+}
+
+.header{
+  background-color: #1c2724;
 }
 /*header end*/
 
 /*profile*/
+.main-profile{
+  background-color: #344741;
+}
+
 .profile{
   margin: 50px;
+}
+
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 40px 40 px;
 }
 /*end profile*/
 
 /*two column*/
 .container-for-two-column{
   display: flex;
-  justify-content: space-around;
   padding: 20px 50px;
   color: #1c2724;
 }
@@ -49,6 +65,11 @@ html{
 .section-title{
   color: #1c2724;
   font-size: 24px;
+
+}
+
+.left{
+  width: 50%;
 }
 /*two column*/
 
@@ -56,17 +77,8 @@ html{
   list-style: none;
 }
 
-.section-profile{
-  display: flex;
-  justify-content: space-around;
-  width: 100%;
-  padding: 40px 40 px;
-  background-color: #344741;
-}
 
-.section{
-  width: 50%;
-}
+
 
 .contact-img{
 background-position: center left;
@@ -87,3 +99,6 @@ margin-right: 10px;
   }
 }
 
+.footer{
+  background-color: #1c2724
+}
